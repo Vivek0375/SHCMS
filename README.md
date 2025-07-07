@@ -80,17 +80,66 @@ Edit
 _http://localhost:8080/swagger-ui/index.html_
 You can use Swagger UI to test authentication, appointments, records, and user roles.
 
-🖼️ Screenshots to Include
+🖼️ # ** Screenshots to Include**
 Upload these in a screenshots/ folder and embed in README:
 
-login_page data – 
+ Swagger interface for testing:
+ ![Image alt](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20212819.png)
 
-dashboard_doctor.png – Doctor's dashboard view
+login_page data :
+![Image alt](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20212819.png)
 
-patient_record_upload.png – Uploading medical record
 
-appointment_booking.png – Booking UI
+appointment_booking_data:
+![Image alt](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20195645.png)
 
-swagger_apis.png – Swagger interface for testing
+
+▶️ # **Run Locally**
+bash
+Copy
+Edit
+# 1. Clone Repo
+git clone https://github.com/Vivek0375/SHCMS.git
+cd SHCMS
+
+# 2. Configure application.properties or environment variables
+
+# 3. Build and Run
+mvn clean install
+java -jar deploy/application.jar
+
+# App runs at: http://localhost:8080
+
+🌍 # ** Deployment**
+Deployed using AWS EC2 instance:
+
+![Image alt]([https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20195645.png](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20192828.png))
+
+Java JDK 17 installed
+
+JAR file running as background process (e.g., via screen, nohup, or systemd)
+
+Security Groups configured for HTTP (port 8080 or 80)
+
+MySQL hosted on RDS or same instance
+![Image alt](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20195726.png)
+
+🧠 # Future Enhancements
+
+📈 Analytics for Disease Trends & Doctor Activity
+
+📬 Email Notifications for Appointments
+
+# Working on postmant After deployment:
+![Image alt](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20164110.png)
+
+🧑‍💻 # **Author**
+Vivek Yadav
+Connect with me on LinkedIn for any contributions, questions, or concerns using link -> www.linkedin.com/in/vivekyadav375
+GitHub: @Vivek0375
+
+📜 # **License**
+This project is licensed under the MIT License.
+
 
 
