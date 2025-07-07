@@ -80,24 +80,25 @@ Edit
 _http://localhost:8080/swagger-ui/index.html_
 You can use Swagger UI to test authentication, appointments, records, and user roles.
 
-🖼️ # ** Screenshots to Include**
-Upload these in a screenshots/ folder and embed in README:
+🖼️ # **Screenshots to Include**
 
- Swagger interface for testing:
- ![Image alt](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20212819.png)
+**🔧 Swagger interface for testing:**
 
-login_page data :
-![Image alt](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20212819.png)
+![Swagger](https://raw.githubusercontent.com/Vivek0375/SHCMS/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20212819.png)
 
+**🔐 Login Page:**
 
-appointment_booking_data:
-![Image alt](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20195645.png)
+![Login](https://raw.githubusercontent.com/Vivek0375/SHCMS/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20212819.png)
 
+**📅 Appointment Booking:**
+
+![Appointment](https://raw.githubusercontent.com/Vivek0375/SHCMS/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20195645.png)
+
+---
 
 ▶️ # **Run Locally**
-bash
-Copy
-Edit
+
+```bash
 # 1. Clone Repo
 git clone https://github.com/Vivek0375/SHCMS.git
 cd SHCMS
@@ -109,6 +110,7 @@ mvn clean install
 java -jar deploy/application.jar
 
 # App runs at: http://localhost:8080
+
 
 🌍 # ** Deployment**
 Deployed using AWS EC2 instance:
