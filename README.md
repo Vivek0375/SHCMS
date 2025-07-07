@@ -36,7 +36,6 @@ In many healthcare environments, especially semi-urban or rural clinics:
 - 📅 **Appointment Scheduling with Status Updates**
 - 📂 **Medical Record Uploading (Image/PDF)**
 - 🗂️ **Database-Backed Patient History**
-- 📊 **Dashboard & Analytics Module** *(Coming Soon)*
 - 💾 **MySQL Integration with Spring JPA**
 - 🧱 **Modular Structure with MVC & DTO Layers**
 - 🧪 **Swagger for API Testing & Documentation**
@@ -84,7 +83,7 @@ You can use Swagger UI to test authentication, appointments, records, and user r
 🖼️ Screenshots to Include
 Upload these in a screenshots/ folder and embed in README:
 
-login_page.png – Login interface
+login_page data – 
 
 dashboard_doctor.png – Doctor's dashboard view
 
