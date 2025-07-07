@@ -113,7 +113,7 @@ java -jar deploy/application.jar
 🌍 # ** Deployment**
 Deployed using AWS EC2 instance:
 
-![Image alt]([https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20195645.png](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20192828.png))
+![Image alt](https://github.com/Vivek0375/SHCMS/blob/f96287b805187cc48c14e37b02cc3365bbf7b69b/shcms-image/Screenshot%202025-07-06%20192828.png)
 
 Java JDK 17 installed
 
