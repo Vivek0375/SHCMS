@@ -45,26 +45,7 @@ In many healthcare environments, especially semi-urban or rural clinics:
 
 ## 📁 Project Structure
 
-SHCMS/
-│
-├── src/
-│ ├── main/java/com/vivek/shcms/
-│ │ ├── controller/
-│ │ ├── dto/
-│ │ ├── entity/
-│ │ ├── repository/
-│ │ ├── security/
-│ │ ├── service/
-│ │ └── ShcmsApplication.java
-│ └── resources/
-│ ├── application.properties
-│ └── static/
-├── deploy/
-│ ├── application.jar
-│ └── deploy.zip
-├── .gitignore
-└── pom.xml
-
+![Image alt](https://github.com/Vivek0375/SHCMS/blob/9d5349fb37e34577a06aeebe4ab6162561020460/shcms-image/Screenshot%202025-07-07%20165439.png)
 
 ---
 
