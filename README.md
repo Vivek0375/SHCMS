@@ -158,6 +158,6 @@ Deployed using AWS EC2 instance:
 
 ---
 
-## 📜 License
+## 📜 LICENCE
 
-This project is licensed under the MIT License.
+This project is licensed under [MIT LICENSE](LICENSE)
