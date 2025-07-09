@@ -31,7 +31,7 @@ In many healthcare environments, especially semi-urban or rural clinics:
 
 ---
 
-## ✅ Core Features
+##  Core Features
 
 * 🔐 **Secure Login & JWT Authentication**
 * 🧑‍⚕️ **Role-Based Access (Doctor, Patient, Admin)**
